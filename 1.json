@@ -1,10 +1,6 @@
 {
     "config": {
     "TQ120": 12.7,
-    "proxyApiUrls": [
-      "https://service.ipzan.com/core-extract?num=1&no=2025040256019&minute=1&format=txt&repeat=1&protocol=1&pool=ordinary&mode=whitelist&secret=oq08m191",
-      "https://service.ipzan.com/core-extract?num=1&no=202308089926832&minute=1&format=txt&repeat=1&protocol=1&pool=ordinary&mode=whitelist&secret=s1mg5h0c"
-    ],
     "activeId": 22,
     "480taskId": 142,
     "360taskId": 141,
